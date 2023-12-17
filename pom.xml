@@ -37,7 +37,7 @@
                         <descriptorRef>jar-with-dependencies</descriptorRef>
                     </descriptorRefs>
                     <outputDirectory>bin</outputDirectory>
-                    <finalName>AstroTools</finalName>
+                    <finalName>AutoStretch</finalName>
                     <appendAssemblyId>false</appendAssemblyId>
                 </configuration>
                 <executions>
